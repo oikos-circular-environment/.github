@@ -85,6 +85,18 @@ O app e o painel web consomem a API pelo mesmo SDK, gerado a partir da especific
 
 O Oikos nasceu de uma pesquisa de mestrado. A plataforma foi concebida a partir de um estudo com atores da cadeia de resíduos, e a usabilidade do aplicativo é avaliada com um teste autoaplicado que mede eficácia, eficiência e satisfação, seguindo a ISO 9241-11 e o método de Lima, Oliveira e Santana (2013). O instrumento e o cálculo dos indicadores estão no repositório [survey](https://github.com/oikos-circular-environment/survey).
 
+## Registro e licença
+
+O Oikos Economia Circular é registrado no INPI como programa de computador, processo BR 51 2026 008392-3.
+
+<p align="center">
+  <img src="assets/inpi-registro.png" width="683" alt="Dados do certificado de registro de programa de computador do Oikos no INPI">
+</p>
+
+O código de todos os repositórios é disponibilizado sob a [PolyForm Noncommercial 1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0). Qualquer pessoa pode estudar, usar, modificar e redistribuir o Oikos para fins não comerciais: uso pessoal, pesquisa, ensino e uso por instituições de ensino, organizações beneficentes, de pesquisa ou de proteção ambiental e órgãos públicos.
+
+Uso comercial, como vender o software, oferecê-lo como serviço pago ou usá-lo como base de um produto, exige uma licença comercial à parte com o titular. Para tratar disso, escreva para christian.cesar@oikos.company.
+
 ## Como colaborar
 
 Contribuições são bem-vindas em qualquer repositório:
